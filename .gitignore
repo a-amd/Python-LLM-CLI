@@ -1,0 +1,18 @@
+# dotenv
+.env
+
+# OS generated files
+.DS_Store
+
+# Python
+*/__pycache__/*
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE - VSCode
+.vscode/
+
+# Virtualenv
+.venv/
